@@ -1,0 +1,11 @@
+Model Information:
+* title:	KoreaNavy -Jang bogo- Class(Type209) Submarine
+* source:	https://sketchfab.com/3d-models/koreanavy-jang-bogo-classtype209-submarine-abd6a2cd5fe14f6baa16e64c2d20f317
+* author:	Artech (https://sketchfab.com/ArtechStudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KoreaNavy -Jang bogo- Class(Type209) Submarine" (https://sketchfab.com/3d-models/koreanavy-jang-bogo-classtype209-submarine-abd6a2cd5fe14f6baa16e64c2d20f317) by Artech (https://sketchfab.com/ArtechStudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
