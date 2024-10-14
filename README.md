@@ -1,5 +1,5 @@
 **Battleship 3D Simulation**
-**Overview**
+**Overview**:
 This project is a 3D simulation of the classic Battleship game, built using Three.js and Vite. 
 
 **Setup Instructions:**
