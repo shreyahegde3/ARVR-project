@@ -1,10 +1,10 @@
-**Battleship 3D Simulation**
-**Overview**:
-This project is a 3D simulation of the classic Battleship game, built using Three.js and Vite. 
+#**Battleship 3D Simulation**
+#**Overview**:
+  This project is a 3D simulation of the classic Battleship game, built using Three.js and Vite. 
 
 **Setup Instructions:**
-install node.js if you haven't already.
-Install three.js and a build tool, Vite, using a terminal in your project folder.
+  install node.js if you haven't already.
+  Install three.js and a build tool, Vite, using a terminal in your project folder.
   # three.js
   npm install --save three
 
