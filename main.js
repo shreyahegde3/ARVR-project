@@ -102,7 +102,6 @@ loader.load(
     ships.push(bigship);
     scene.add(bigship);
     bigship.rotation.y += Math.PI / 2;
-
     markPositionAsOccupied(bigship);
   },
   function (xhr) {
@@ -138,8 +137,7 @@ loader.load(
     bldestroyer.userData.isShip = true; // Add this line
     enhanceModelMaterials(bldestroyer);
     ships.push(bldestroyer);
-    scene.add(bldestroyer);
-    
+    scene.add(bldestroyer);  
     bldestroyer.rotation.y += Math.PI / 2;
     markPositionAsOccupied(bldestroyer);
   },
@@ -181,7 +179,6 @@ loader.load(
     ships.push(submarine);
     scene.add(submarine);
     submarine.rotation.y += Math.PI / 2;
-
     markPositionAsOccupied(submarine);
   },
   function (xhr) {
@@ -219,7 +216,6 @@ loader.load(
     ships.push(boxShip);
     scene.add(boxShip);
     submarine.rotation.y += Math.PI / 2;
-
     markPositionAsOccupied(boxShip);
   },
   function (xhr) {
